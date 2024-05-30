@@ -10,7 +10,7 @@ I am currently a Ph.D. candidate in John Hopcroft Center, Shanghai Jiao Tong Uni
 
 Education
 ------
-- Sept. 2019 ~ Mar. 2015 (expected graduation date) - Ph.D., Shanghai Jiao Tong University.
+- Sept. 2019 ~ Mar. 2015 (expected) - Ph.D., Shanghai Jiao Tong University.
 - Sept. 2015 ~ Jul. 2019 - Bachelor, Shanghai Jiao Tong University.
 
 Publications
