@@ -24,9 +24,9 @@ author:
   avatar           : "yunzhuoliu.jpg"
   name             : "Yunzhuo Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate, Shanghai Jiao Tong University, Computer Science"
+  bio              : "Ph.D. Candidate, Computer Science"
   location         : "Shanghai, China"
-  employer         : #"Shanghai Jiao Tong University"
+  employer         : "Shanghai Jiao Tong University"
   uri              : # URL
   email            : "liu445126256@sjtu.edu.cn" 
 
