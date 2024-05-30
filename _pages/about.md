@@ -27,7 +27,7 @@ Publications
 
 Internships
 ------
-- May 2023 ~ Feb. 2024 - Research Intern at Alibaba CLoud.
+- May 2023 ~ Feb. 2024 - Research Intern at Alibaba Cloud.
 - Oct. 2022 ~ May 2023 - Research Intern at Alibaba DAMO Academy, XG Lab.
 
 Awards
