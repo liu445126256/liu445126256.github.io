@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 I am currently a Ph.D. candidate in John Hopcroft Center, Shanghai Jiao Tong University, under the esteemed guidance of professor [Bo Jiang](https://jhc.sjtu.edu.cn/~bjiang/). I obtained my Bachelor's Degree degree from Shanghai Jiao Tong University in 2019 and continued to pursue my master's degree. In the second year of my master's studies, I switched to pursuing a doctoral degree as I discovered my passion for scientific research. My research insterests include distributed training, programmable networks and container networks.
+[Download my CV.](https://liu445126256.github.io/)
 
 Education
 ------
