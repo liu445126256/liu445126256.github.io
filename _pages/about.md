@@ -12,7 +12,7 @@ Download my CV: [中文简历](https://liu445126256.github.io/files/cv_chinese.p
 
 Education
 ------
-- Sept. 2019 ~ Mar. 2015 (expected) - Ph.D., Shanghai Jiao Tong University.
+- Sept. 2019 ~ Mar. 2025 (expected) - Ph.D., Shanghai Jiao Tong University.
 - Sept. 2015 ~ Jul. 2019 - Bachelor, Shanghai Jiao Tong University.
 
 Publications
